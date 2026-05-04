@@ -3,5 +3,5 @@
 </p>
 
 
-### Hello fellow digital enthusiasts 
-I am working towards a Computer Engineering degree with a focus in communications. My interests are currently geared towards signal processing and photonics. I have done several academic projects in Assembly, C, C++, Python, and MATLAB.
+### Hello digital enthusiasts 
+I’m William, an engineer focused on embedded systems, DSP, and machine learning. I build reliable low‑level systems, analyze and visualize signals, and develop practical ML workflows. This GitHub is a collection of the tools, experiments, and projects I’m using to bridge embedded engineering with modern AI.
