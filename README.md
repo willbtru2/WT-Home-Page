@@ -3,6 +3,5 @@
 </p>
 
 
-## Enigneering Student
-# 
--
+### Hello fellow digital enthusiasts 
+I am working towards a Computer Engineering degree with a focus in communications. My interests are currently geared towards signal processing and photonics. I have done several academic projects in Assembly, C, C++, Python, and MATLAB.
